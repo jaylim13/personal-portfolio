@@ -1,8 +1,8 @@
 import './App.css'
 import Navbar from './Navbar'
-import About from './pages/About'
+import General from './pages/General'
 import Home from './pages/Home'
-import Pricing from './pages/Pricing'
+import Academic from './pages/Academic'
 import Inquiries from './pages/Inquiries'
 import { Route, Routes} from "react-router-dom"
 
@@ -13,8 +13,8 @@ function App() {
       <div className='container'>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="pricing" element={<Pricing />} />
-          <Route path="about" element={<About />} />
+          <Route path="general" element={<General />} />
+          <Route path="academic" element={<Academic />} />
           <Route path="inquiries" element={<Inquiries />} />
         </Routes>
       </div>
