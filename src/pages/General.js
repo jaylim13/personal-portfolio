@@ -9,7 +9,7 @@ export default function General(){
             Chapel Hill! I am currently learning React, HTML, CSS, and Javascript. Email 
             me to stay connected!
         </p>
-        <pre><a href="mailto:jaydenlim43@gmail.com">Email Me</a></pre>
+        <pre><a href="mailto:jaydenlim43@gmail.com" target="_blank" rel="noreferrer">Email Me</a></pre>
         <a href="https://www.linkedin.com/in/jayden-lim-438b66232" target="_blank" rel="noreferrer">LinkedIn</a>
     </div>
     </>
