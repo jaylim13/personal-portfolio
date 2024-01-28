@@ -8,6 +8,10 @@ body{
     background-color: lightsteelblue;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container{
     margin: 1rem; 
     text-align: center;
@@ -63,7 +67,29 @@ body{
     
 }
 
-.cookingpage{
+.interest-page{
     font-family: Copperplate;
     font-size: 30px;
+    
+}
+
+
+.food{
+    font-family: Lavenda;
+}
+
+.progress-date{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.academic-header{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+.retrieve-stuff{
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
 }

@@ -5,6 +5,9 @@ import Home from './pages/Home'
 import Academic from './pages/Academic'
 import Inquiries from './pages/Inquiries'
 import Cooking from './pages/Cooking'
+import Gym from './pages/Gym'
+import Soccer from './pages/Soccer'
+import Research from './pages/Research'
 import { Route, Routes} from "react-router-dom"
 
 function App() {
@@ -18,6 +21,10 @@ function App() {
           <Route path="academic" element={<Academic />} />
           <Route path="inquiries" element={<Inquiries />} />
           <Route path="cooking" element={<Cooking />} />
+          <Route path="gym" element={<Gym />} />
+          <Route path="soccer" element={<Soccer />} />
+          <Route path="research" element={<Research />} />
+      
         </Routes>
       </div>
     </>
