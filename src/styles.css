@@ -8,10 +8,6 @@ body{
     background-color: lightsteelblue;
 }
 
-a {
-    text-decoration: none;
-}
-
 .container{
     margin: 1rem; 
     text-align: center;
@@ -92,4 +88,11 @@ a {
     font-family:'Times New Roman', Times, serif;
     text-decoration: underline;
     text-align: center;
+}
+
+.academic-link{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+    text-decoration: underline;
 }

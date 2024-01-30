@@ -10,7 +10,8 @@ export default function General(){
             me to stay connected!
         </p>
         <pre><a className="retrieve-stuff" href="mailto:jaydenlim43@gmail.com" target="_blank" rel="noreferrer">Email Me</a></pre>
-        <a className="retrieve-stuff" href="https://www.linkedin.com/in/jayden-lim-438b66232" target="_blank" rel="noreferrer">LinkedIn</a>
+        <pre><a className="retrieve-stuff" href="https://www.linkedin.com/in/jayden-lim-438b66232" target="_blank" rel="noreferrer">LinkedIn</a></pre>
+        <a className="retrieve-stuff" href="https://github.com/jaylim13" target="_blank" rel="noreferrer">GitHub</a>
     </div>
     </>
     )
