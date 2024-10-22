@@ -8,11 +8,16 @@ export default function Academic(){
         <p className="academic-header">Relevant Coursework</p>
         <p>
             <h3>High School</h3>
-            AP Computer Science Principles, AP Computer Science, AP Calculus AB, AP Calculus BC
+            AP Computer Science Principles, AP Computer Science, AP Calculus AB, AP Calculus BC, AP Physics 1
             <h3>College</h3>
-            Freshman Year: PHYS 55, COMP 110, IDST 190L, MATH 233, MATH 381
+            <h4>Freshman Year:</h4> 
+            PHYS 55: Intro to Mechatronics, COMP 110: Intro to Programming & Data Science, IDST 190L: Data Literacy, MATH 233: Multivariable Calculus, MATH 381: Discrete Math
             <br />
-            Sophomore Year: COMP 211, COMP 301, MATH 347, COMP 455, STOR 535, COMP 590
+            <h4>Sophomore Year:</h4> 
+            COMP 211: Systems Fundamentals, COMP 301: OOP Programming, MATH 347: Linear Algebra, COMP 455: Automata Theory, STOR 535: Probability, COMP 590: Software Engineering
+            <br />
+            <h4>Junior Year:</h4> 
+            COMP 311: Computer Organization, COMP 562: Machine Learning, COMP 590: Computer Vision, STOR 566: Deep Learning
         </p>
         </div>
         <Link to="/research" className="academic-link">Research</Link>
